@@ -1,6 +1,6 @@
 # Training CNNs on the subset of ImageNet
 
-The training implementation (main.py) is taken from https://github.com/pytorch/examples/tree/main/imagenet with some changes to visualize the results in tensorboard. 
+The training implementation (main.py) is taken from https://github.com/pytorch/examples/tree/main/imagenet with some changes to visualize the results in tensorboard. Testing is also added. 
 
 ## Requirements
 1. Install PyTorch (pytorch.org)
