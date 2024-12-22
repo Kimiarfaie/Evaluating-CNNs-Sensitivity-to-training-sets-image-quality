@@ -1,0 +1,100 @@
+n04562935, water tower
+n04579145, whiskey jug
+n04579432, whistle
+n04584207, wig
+n04589890, window screen
+n04590129, window shade
+n04591157, Windsor tie
+n04591713, wine bottle
+n04592741, wing
+n04596742, wok
+n04597913, wooden spoon
+n04599235, wool, woolen, woollen
+n04604644, worm fence, snake fence, snake-rail fence, Virginia fence
+n04606251, wreck
+n04612504, yawl
+n04613696, yurt
+n06359193, web site, website, internet site, site
+n06596364, comic book
+n06785654, crossword puzzle, crossword
+n06794110, street sign
+n06874185, traffic light, traffic signal, stoplight
+n07248320, book jacket, dust cover, dust jacket, dust wrapper
+n07565083, menu
+n07579787, plate
+n07583066, guacamole
+n07584110, consomme
+n07590611, hot pot, hotpot
+n07613480, trifle
+n07614500, ice cream, icecream
+n07615774, ice lolly, lolly, lollipop, popsicle
+n07684084, French loaf
+n07693725, bagel, beigel
+n07695742, pretzel
+n07697313, cheeseburger
+n07697537, hotdog, hot dog, red hot
+n07711569, mashed potato
+n07714571, head cabbage
+n07714990, broccoli
+n07715103, cauliflower
+n07716358, zucchini, courgette
+n07716906, spaghetti squash
+n07717410, acorn squash
+n07717556, butternut squash
+n07718472, cucumber, cuke
+n07718747, artichoke, globe artichoke
+n07720875, bell pepper
+n07730033, cardoon
+n07734744, mushroom
+n07742313, Granny Smith
+n07745940, strawberry
+n07747607, orange
+n07749582, lemon
+n07753113, fig
+n07753275, pineapple, ananas
+n07753592, banana
+n07754684, jackfruit, jak, jack
+n07760859, custard apple
+n07768694, pomegranate
+n07802026, hay
+n07831146, carbonara
+n07836838, chocolate sauce, chocolate syrup
+n07860988, dough
+n07871810, meat loaf, meatloaf
+n07873807, pizza, pizza pie
+n07875152, potpie
+n07880968, burrito
+n07892512, red wine
+n07920052, espresso
+n07930864, cup
+n07932039, eggnog
+n09193705, alp
+n09229709, bubble
+n09246464, cliff, drop, drop-off
+n09256479, coral reef
+n09288635, geyser
+n09332890, lakeside, lakeshore
+n09399592, promontory, headland, head, foreland
+n09421951, sandbar, sand bar
+n09428293, seashore, coast, seacoast, sea-coast
+n09468604, valley, vale
+n09472597, volcano
+n09835506, ballplayer, baseball player
+n10148035, groom, bridegroom
+n10565667, scuba diver
+n11879895, rapeseed
+n11939491, daisy
+n12057211, yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum
+n12144580, corn
+n12267677, acorn
+n12620546, hip, rose hip, rosehip
+n12768682, buckeye, horse chestnut, conker
+n12985857, coral fungus
+n12998815, agaric
+n13037406, gyromitra
+n13040303, stinkhorn, carrion fungus
+n13044778, earthstar
+n13052670, hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa
+n13054560, bolete
+n13133613, ear, spike, capitulum
+n15075141, toilet tissue, toilet paper, bathroom tissue
