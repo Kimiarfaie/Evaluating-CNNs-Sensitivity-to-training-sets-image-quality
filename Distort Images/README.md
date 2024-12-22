@@ -12,6 +12,7 @@ The distortion framework utilizes the **S-CIELAB image quality metric** to contr
 
 This iterative approach ensures that all distorted images meet the defined quality standards.
 
+Use two_dynamic_distortimages.m to distort the dataset, this will create a distorted version of the subset ImageNet used. You can change the distortion type by changing **distortion_function** variable. 
 ## Distortion types
 
 **Saturation Change**: Applied to the training set to create a distorted training dataset.
