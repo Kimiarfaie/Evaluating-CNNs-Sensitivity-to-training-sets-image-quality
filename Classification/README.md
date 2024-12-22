@@ -14,7 +14,7 @@ python main.py pathtodataset --arch alexnet --id TrainingAlexnet --batch-size 8 
 ```
 ## Testing 
 
-To test a model run test.py with the path to the pretrained model, test folder, the architecture and the synset mapping file. 
+To test a model, run test.py with the path to the pretrained model, test folder, the architecture and the synset mapping file. 
 ```python
 python test.py --model-path pathtomodel --test-folder pathtotestset --arch alexnet --id TestingAlexNet --synset-mapping pathtosynsetmapping--gpu 0
 ```
