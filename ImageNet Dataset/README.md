@@ -23,5 +23,3 @@ imagenet/ILSVRC/Data/CLS-LOC/val/
 ├── ......
 ```
 2. You can use the one_makeimagenetsubset.m scirpt to create a subset of ImageNet containing 10,000 (100 images from 100 classes) training and 2000 (20 images from 100 classes) validation images. The script screates the subset following the original structure.
-
-3. 
