@@ -11,5 +11,6 @@ A dynamic distortion framework was implemented to create controlled datasets wit
 
 1. Go to ImageNet Dataset folder to download the full ImageNet1K and create the subset of ImageNet.
 
-2. Go to Distort Images to create the distorted subset of images. 
+2. Go to Distort Images folder to create the distorted subset of images.
 
+3. Go to Classification folder to train and test models on the suitable datasets by following the instructions.
